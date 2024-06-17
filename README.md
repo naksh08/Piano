@@ -1,6 +1,4 @@
-Sure, I can help you with that. Here's a draft for your `README.md` file:
 
----
 
 # Virtual Piano Project
 
@@ -10,7 +8,7 @@ Welcome to the Virtual Piano Project! This is a fun and creative way to showcase
 ## Features
 - **Play Piano on Your Keyboard**: Use the keys `z`, `s`, `x`, `d`, `c`, `v`, `g`, `b`, `h`, `n`, `j`, `m` to play notes.
 - **High-Quality Sound**: Utilizes the **AudioContext** interface for realistic piano sound.
-- **Responsive Design**: Works well on all devices, so you can play anytime, anywhere.
+
 
 ## How to Play
 Simply press the specified keys on your keyboard to play the corresponding piano notes. It's that easy!
